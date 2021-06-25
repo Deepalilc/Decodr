@@ -4,7 +4,11 @@ Malls or shopping complexes are often indulged in the race to increase their cus
 Here we have the following features :
 
 1.CustomerID: It is the unique ID given to a customer
+
 2.Gender: Gender of the customer
+
 3.Age: The age of the customer
+
 4.Annual Income(k$): It is the annual income of the customer
+
 5.Spending Score: It is the score(out of 100) given to a customer by the mall authorities, based on the money spent and the behavior of the customer.
